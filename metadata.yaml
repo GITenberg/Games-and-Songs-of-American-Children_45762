@@ -1,0 +1,28 @@
+_repo: Games-and-Songs-of-American-Children_45762
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Newell, William Wells
+    birthdate: 1839
+    deathdate: 1907
+    gutenberg_agent_id: '8394'
+    url: http://www.gutenberg.org/2009/agents/8394
+    wikipedia: http://en.wikipedia.org/wiki/William_Wells_Newell
+covers:
+- cover_type: archival
+  image_path: 45762-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2014-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Games with music'
+- !lcsh 'Children''s songs -- United States'
+title: Games and Songs of American Children
+url: http://www.gutenberg.org/ebooks/45762
