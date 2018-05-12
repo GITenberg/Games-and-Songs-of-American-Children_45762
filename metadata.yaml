@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 45762-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45762#Games-and-Songs-of-American-Children
 gutenberg_issued: '2014-05-26'
 gutenberg_type: Text
 identifiers:
